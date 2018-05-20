@@ -1,0 +1,28 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "eject": "react-native-scripts eject",
+    "start": "react-native-scripts start",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios",
+    "publish": "exp publish",
+    "build-android": "exp build:android"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "expo": "^27.0.1",
+    "moment": "^2.22.1",
+    "native-base": "^2.4.3",
+    "react": "16.3.1",
+    "react-native":
+      "https://github.com/expo/react-native/archive/sdk-27.0.0.tar.gz",
+    "react-native-modal-datetime-picker": "^5.1.0",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-vector-icons": "^4.6.0",
+    "yarn": "^1.6.0"
+  },
+  "devDependencies": {
+    "react-native-scripts": "^1.14.0"
+  }
+}
